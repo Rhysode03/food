@@ -1,5 +1,5 @@
 let select = document.getElementById("selectFood");
-let food = ["Burger King", "Carl's Jr, Wendy's", "McDonalds", "Taco Time", "Taco Bell", "Panda Express"];
+let food = ["Burger King", "Carl's Jr", "Wendy's", "McDonalds", "Taco Time", "Taco Bell", "Panda Express"];
 
 for (var i = 0; i < food.length; i++) {
     let choice = food[i];
